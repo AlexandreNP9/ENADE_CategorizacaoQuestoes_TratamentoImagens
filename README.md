@@ -31,5 +31,6 @@ Passo 4.2.1) Cortar ao meio as imagens em que as questões ocupam duas colunas e
 Passo 4.2.2) Remover bordas internas dessas colunas  
 Passo 4.2.3) Unir verticalmente das colunas  
 Passo 5) Percorrer as imagens unidas verticalmente (imagem das questões de página inteira e imagem das questões de colunas) e recortar no início de cada questão  
-Passo 6) Remover espaços em excesso  
-Passo 7) Tratar qualquer situação manualmente  
+Passo 6) Renomear imagens com os nomes das questões  
+Passo 7) Remover espaços em excesso  
+Passo 8) Tratar qualquer situação manualmente  
