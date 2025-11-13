@@ -6,7 +6,8 @@ Linux Mint 22.1
 Python 3  
 Pillow  
 Poppler-utils  
-gThumb
+gThumb  
+GIMP 2.10
 
 # Instalar softwares
 Espera-se que já tenha o python3 instalado
