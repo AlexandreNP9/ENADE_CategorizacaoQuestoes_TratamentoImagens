@@ -5,28 +5,35 @@ Este repositório faz parte de um projeto com subsistemas distribuído.
 Repositório Geral:
 https://github.com/AlexandreNP9/ENADE_CategorizacaoQuestoes_GERAL
 
-Conversão do PDF para PNG e tratamentos pontuais para usar no próximo repositório.
+# Objetivos deste repositório
+Converter PDF para PNG  
+Recortar as questões para que tenha uma questão por imagem  
+Remover excessos  
+Renomear as imagens  
 
-# Softwares utilizados
-Linux Mint 22.1  
+# Especifidades técnicas
+## Programas e bibliotecas utilziadas
+Linux Mint 22.1
 Python 3  
-Pillow  
-Poppler-utils  
-gThumb  
-GIMP 2.10
+gthumb  
+os  
+pdf2image  
+pillow  
 
-# Instalar softwares
-Espera-se que já tenha o python3 instalado
-
-## Variável de Ambiente (caso necessário)
+# Antes de executar o código
+## Criar variável de ambiente
+```
 python3 -m venv venv  
 source venv/bin/activate  
+```
 
-## Poppler
-sudo apt-get install poppler-utils
+## Instalar o pdf2image
+```
+pip3 install pdf2image  
+```
 
-## Biblioteca PDF2Image e dependências
-pip3 install pdf2image pillow  
+## Executar os códigos nas pastas
+Cada pasta tem códigos ou instruções específicas
 
 # Passo a Passo
 Passo 1) Reunir os PDFs para trabalhar  
