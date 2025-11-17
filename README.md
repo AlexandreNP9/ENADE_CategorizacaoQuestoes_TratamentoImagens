@@ -1,4 +1,10 @@
 # ENADE_CategorizacaoQuestoes_TratamentoImagens
+Projeto para categorização das questões do ENADE de acordo com os descritores e habilidades previstas nas [Diretrizes Curriculares Nacionais (DNCs)](https://www.gov.br/mec/pt-br/cne/normas-classificadas-por-assunto/diretrizes-curriculares-cursos-de-graduacao).
+Este repositório faz parte de um projeto com subsistemas distribuído.
+
+Repositório Geral:
+https://github.com/AlexandreNP9/ENADE_CategorizacaoQuestoes_GERAL
+
 Conversão do PDF para PNG e tratamentos pontuais para usar no próximo repositório.
 
 # Softwares utilizados
